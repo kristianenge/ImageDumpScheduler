@@ -1,0 +1,1 @@
+Images will be dumped here with timestamp in the name
